@@ -1,4 +1,4 @@
-# DSN-Datathon-Week-2-Small-Business-loan-Apllication
+# DSN-Datathon-Week-2-Small-Business-loan-Application
 
 ## Small Business Loan Applications
 ### Helping You Find the Ideal Bank for Your Loan Needs
