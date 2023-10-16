@@ -16,7 +16,7 @@ https://www.youtube.com/watch?v=OTRo2PEpzQg
 Small business owners often struggle to find the perfect bank for loans. This project addresses this issue by providing a user-friendly dashboard that empowers them to make informed decisions. Users can filter based on the location of their business, desired repayment terms, interest rates, business age, and industry.
 
 #### 3. Dataset
-This project utilizes a database from the U.S. SMALL BUSINESS ADMINISTRATION which is attached with this project files.
+This project utilizes a database from the U.S. SMALL BUSINESS ADMINISTRATION which can be found here https://data.world/makeovermonday/2023w6.
 
 #### 4. Solution Steps
 The solution incorporates the following:
